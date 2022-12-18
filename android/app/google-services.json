@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "410674076254",
+    "project_id": "cred-books",
+    "storage_bucket": "cred-books.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410674076254:android:a9952971120e6e56d872cf",
+        "android_client_info": {
+          "package_name": "com.example.cred_books"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410674076254-e578bmc5u5l5fpgj973jbq3q0ou0pkdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpODDqk0ykOaH8nyS_4hgONH4hifqMYkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410674076254-e578bmc5u5l5fpgj973jbq3q0ou0pkdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

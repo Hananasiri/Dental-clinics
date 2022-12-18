@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">410674076254-e578bmc5u5l5fpgj973jbq3q0ou0pkdp.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">410674076254</string>
+    <string name="google_api_key" translatable="false">AIzaSyCpODDqk0ykOaH8nyS_4hgONH4hifqMYkg</string>
+    <string name="google_app_id" translatable="false">1:410674076254:android:a9952971120e6e56d872cf</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCpODDqk0ykOaH8nyS_4hgONH4hifqMYkg</string>
+    <string name="google_storage_bucket" translatable="false">cred-books.appspot.com</string>
+    <string name="project_id" translatable="false">cred-books</string>
+</resources>

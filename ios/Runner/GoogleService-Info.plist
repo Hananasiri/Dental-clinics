@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>410674076254-mlac33j8v7nr9q3iai5sg62pjdri7bo5.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.410674076254-mlac33j8v7nr9q3iai5sg62pjdri7bo5</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJGdBlHSHNnrK34wTcLAdBq2YQ-eVZtlE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>410674076254</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.credBooks</string>
+	<key>PROJECT_ID</key>
+	<string>cred-books</string>
+	<key>STORAGE_BUCKET</key>
+	<string>cred-books.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:410674076254:ios:ad2eccbf52cf5eccd872cf</string>
+</dict>
+</plist>
