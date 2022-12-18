@@ -135,7 +135,7 @@ class CardItem extends StatelessWidget {
                 ),
                 Container(
                   width: 300,
-                  height: 120,
+                  height: 100,
                   decoration: BoxDecoration(
                     color: Colors.black,
                     borderRadius: BorderRadius.circular(10),
@@ -162,12 +162,13 @@ class CardItem extends StatelessWidget {
                           text: " $catagory",
                           color: Colors.black,
                           fontWeight: FontWeight.normal,
-                          fontsize: 13),
+                          fontsize: 12),
                       Text(
                         "\$ $price",
                         style: const TextStyle(
                           color: googleColor,
                           fontWeight: FontWeight.bold,
+                            fontSize: 12
                         ),
                       ),
                     ],
